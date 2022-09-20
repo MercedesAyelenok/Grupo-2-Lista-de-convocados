@@ -37,8 +37,10 @@ h1{
   display: flex;
   justify-content: center;
   align-items: center;
-
+  
 }
+
+
 .section{
   background-color: grey;
   width: 25%;
